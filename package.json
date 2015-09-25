@@ -1,0 +1,20 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "description": "sample project of electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garaemon/electron-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garaemon/electron-sample/issues"
+  },
+  "homepage": "https://github.com/garaemon/electron-sample#readme"
+}
